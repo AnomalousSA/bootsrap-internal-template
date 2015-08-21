@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Donovan Maidens -- Developer
+	Jo-anne Maidens -- Developer
+	Carolyn Parkin  -- Developer
+	Marilyn Parkin -- Administration
+
+# THANKS
+
+    Fabriek supplying the design
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Wordpress, Apache
