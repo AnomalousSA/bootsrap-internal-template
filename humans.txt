@@ -4,13 +4,13 @@
 # TEAM
 
     Donovan Maidens -- Developer
-	Jo-anne Maidens -- Developer
-	Carolyn Parkin  -- Developer
-	Marilyn Parkin -- Administration
+    Jo-anne Maidens -- Developer
+    Carolyn Parkin  -- Developer
+    Marilyn Parkin -- Administration
 
 # THANKS
 
-    Fabriek supplying the design
+    Anomalous supplying the design
 
 # TECHNOLOGY COLOPHON
 
